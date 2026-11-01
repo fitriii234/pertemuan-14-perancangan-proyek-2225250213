@@ -1,0 +1,7 @@
+Ayu,85
+Budi,78
+Citra,60
+Dedi,55
+Eka,100
+Fani,abc
+Gita,105
